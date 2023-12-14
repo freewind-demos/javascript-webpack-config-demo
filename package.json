@@ -1,11 +1,11 @@
 {
-  "scripts": {
-    "demo": "webpack && open index.html"
-  },
-  "devDependencies": {
-    "css-loader": "2.1.1",
-    "style-loader": "0.23.1",
-    "webpack": "4.29.6",
-    "webpack-cli": "3.3.0"
-  }
+    "scripts": {
+        "start": "webpack && open index.html"
+    },
+    "devDependencies": {
+        "css-loader": "2.1.1",
+        "style-loader": "0.23.1",
+        "webpack": "4.29.6",
+        "webpack-cli": "3.3.0"
+    }
 }
